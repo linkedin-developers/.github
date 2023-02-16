@@ -13,7 +13,7 @@ Here are some suggestions for getting started:
 - Easily [generate an access token](https://www.linkedin.com/developers/tools/oauth/token-generator) for making your first API call
 - Browse our [Postman Collections](https://www.postman.com/linkedin-developer-apis) to understand how to implement specific use cases
 - Explore sample applications on this Github page, such as [this one](https://github.com/linkedin-samples/java-sample-application)
-- Use client libraries to simplify development ([JavaScript client](https://github.com/linkedin-developers/linkedin-api-js-client))
+- Use client libraries to simplify development ([JavaScript](https://github.com/linkedin-developers/linkedin-api-js-client), [Python](https://github.com/linkedin-developers/linkedin-api-python-client))
 
 ## Other Resources
 

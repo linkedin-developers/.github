@@ -17,5 +17,5 @@ Here are some suggestions for getting started:
 
 ## Other Resources
 
-- Find information on [current outages and API status](https://linkedin.statuspage.io/)
+- Find information on [current outages and API status](https://www.linkedin-apistatus.com/)
 - Discover the latest [developer news](https://www.linkedin.com/content/developers/news)
